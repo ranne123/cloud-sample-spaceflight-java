@@ -24,3 +24,11 @@ connection.properties
 metadata.xml
 .cds_gen.log
 default-env.json
+
+fioriHtmlRunner.html
+.*/fioriHtmlRunner.html
+mock_preview_sapui5.html
+.*/mock_preview_sapui5.html
+extended_runnable_file.html
+.*/extended_runnable_file.html
+sap-ui-cachebuster-info.json
